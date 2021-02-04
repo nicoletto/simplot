@@ -1,15 +1,15 @@
 <rss xmlns:a10="http://www.w3.org/2005/Atom" version="2.0">
 <channel>
   <title>https://fgproductspecprd65.blob.core.windows.net/fg-product-spec-sheets/Products Feed.pdf</title>
-  <link>https://simplotfoods.com/rss-feeds/products.pdf</link>
-<description>Specsheet</description>
-<guid isPermaLink="false"></guid>
+  <link>https://raw.githubusercontent.com/nicoletto/simplot/master/rss2.xml</link>
+ <description>Specsheet</description>
+ <guid isPermaLink="false"></guid>
   <language>en</language>
 <item>
   <title>04580206470327</title>
-<link>https://fgproductspecprd65.blob.core.windows.net/fg-product-spec-sheets/04580206470327.pdf</link>
-<description>Specsheet</description>
-<guid isPermaLink="false"></guid>
+  <link>https://fgproductspecprd65.blob.core.windows.net/fg-product-spec-sheets/04580206470327.pdf</link>
+  <description>Specsheet</description>
+  <guid isPermaLink="false"></guid>
 </item>
 <item>
   <title>10071179000464</title>
@@ -3271,9 +3271,9 @@
 </item>
 <item>
   <title>19310082430816</title>
-<link>https://fgproductspecprd65.blob.core.windows.net/fg-product-spec-sheets/19310082430816.pdf</link>
-<description>Specsheet</description>
-<guid isPermaLink="false"></guid>
+    <link>https://fgproductspecprd65.blob.core.windows.net/fg-product-spec-sheets/19310082430816.pdf</link>
+  <description>Specsheet</description>
+  <guid isPermaLink="false"></guid>
 </item>
 </channel>
 </rss>
