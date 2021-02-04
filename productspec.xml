@@ -1,9 +1,8 @@
 <rss xmlns:a10="http://www.w3.org/2005/Atom" version="2.0">
 <channel>
   <item>
-  <title>
-https://fgproductspecprd65.blob.core.windows.net/fg-product-spec-sheets/Products Feed.pdf</title>
-  <link>https://raw.githubusercontent.com/nicoletto/simplot/master/highspotspecs.xml</link>
+  <title>Product Specsheet</title>
+  <link>https://raw.githubusercontent.com/nicoletto/simplot/master/productspec.xml</link>
  <description>Specsheet</description>
   <language>en</language>
 <sku>04580206470327</sku>
