@@ -1,6 +1,6 @@
 <rss xmlns:a10="http://www.w3.org/2005/Atom" version="2.0">
 <channel>
-    <title>Product Specsheet</title>
+    <title>Product Specsheets</title>
     <link>https://raw.githubusercontent.com/nicoletto/simplot/master/productspec.xml</link>
     <description>Specsheets</description>
   <item>
