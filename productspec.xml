@@ -1,10 +1,8 @@
 <rss xmlns:a10="http://www.w3.org/2005/Atom" version="2.0">
 <channel>
-  <item>
     <title>Product Specsheet</title>
     <link>https://raw.githubusercontent.com/nicoletto/simplot/master/productspec.xml</link>
     <description>Specsheets</description>
-  </item>
   <item>
   <title>Simplot Pride Japan - Fries 1/4"" SS 12/1kg</title>
   <description>Simplot Pride Japan - Fries 1/4"" SS 12/1kg</description>",<link>https://fgproductspecprd65.blob.core.windows.net/fg-product-spec-sheets/04580206470327.pdf</link>
